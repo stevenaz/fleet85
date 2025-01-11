@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+max-height: 100%;
+}
+th, td {
+padding: 1px;
+text-align: left; 
+background-color: #FFEFD5;
+}
+</style>
+</head>
+
+<body>
+<h2>Fleet 85 Calendar (5)</h2>
+<table style="width:100%; white-space:nowrap;">
+<tr>
+<th>Date</th>
+<th>Event</th> 
+<th>Location</th>
+<th>Organizing Group</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td>Jan 25</td>
+<td><a href="https://www.facebook.com/share/14v5DnExkQ/">New Year Kick-Off</a></td>
+<td>Scottsdale</td>
+<td>F42/F66</td>
+<td>pics   video</td></tr>
+<tr>
+<td>Feb 14-16</td>
+<td>Birthday Regatta</td>
+<td>Lake Pleasant</td>
+<td>AYC</td>
+<td>pics   video</td></tr>
+<tr> 
+<td>Mar 21-23</td>
+<td>Spring Fever Sail</td>
+<td>Roosevelt Lake</td>
+<td>Fleet 85</td>
+<td>pics  video</td>
+</tr>
+</table>
+</body>
+</html>
